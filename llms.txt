@@ -1,0 +1,26 @@
+﻿#  | FreeMediaHeckYeah
+
+> The Largest Collection of Free Stuff On The Internet!
+
+- [Welcome](https://fmhy.pages.dev/readme.md): Welcome
+- [Beginners Guide to Piracy](https://fmhy.pages.dev/beginners-guide.md): How do I tell if a site or download is safe? Any tips?
+- [Adblocking / Privacy](https://fmhy.pages.dev/adblockvpnguide.md): Adblocking, Privacy, VPN's, Proxies, Antivirus
+- [Artificial Intelligence](https://fmhy.pages.dev/ai.md): Chat Bots, Text Generators, Image Generators, ChatGPT Tools
+- [Movies / TV / Anime](https://fmhy.pages.dev/videopiracyguide.md): Stream Videos, Download Videos, Torrent Videos
+- [Music / Podcasts / Radio](https://fmhy.pages.dev/audiopiracyguide.md): Stream Audio, Download Audio, Torrent Audio
+- [Gaming / Emulation](https://fmhy.pages.dev/gamingpiracyguide.md): Download Games, ROMs, Gaming Tools
+- [Books / Comics / Manga](https://fmhy.pages.dev/readingpiracyguide.md): Books, Comics, Magazines, Newspapers
+- [Downloading](https://fmhy.pages.dev/downloadpiracyguide.md): Download Sites, Software Sites, Open Directories
+- [Torrenting](https://fmhy.pages.dev/torrentpiracyguide.md): Torrent Clients, Torrent Sites, Trackers
+- [Educational](https://fmhy.pages.dev/edupiracyguide.md): Courses, Documentaries, Learning Resources
+- [Tools](https://fmhy.pages.dev/toolsguide.md): General Tools, Internet Tools, System Tools
+- [Image Tools](https://fmhy.pages.dev/img-tools.md): ⭐ Image Editors - Image Editing Software & Sites
+- [Developer Tools](https://fmhy.pages.dev/devtools.md): ⭐ Programming / Coding Tutorials
+- [Android / iOS](https://fmhy.pages.dev/android-iosguide.md): Apps, Jailbreaking, Android Emulators
+- [Linux / MacOS](https://fmhy.pages.dev/linuxguide.md): Apps, Software Sites, Gaming
+- [Non-English](https://fmhy.pages.dev/non-english.md): International Piracy Sites
+- [Miscellaneous](https://fmhy.pages.dev/miscguide.md): Extensions, Indexes, News, Health, Food, Fun
+- [NSFW](https://fmhy.pages.dev/nsfwpiracy.md): ⭐ PornDude / More Sites
+- [Unsafe Sites](https://fmhy.pages.dev/unsafesites.md): Scene groups do not have their own sites, so its best to avoid anything claiming to represent one.
+- [Base64](https://fmhy.pages.dev/base64.md): Use any Base64 Decoding site or extension. Alternatively, install this userscript
+- [STORAGE](https://fmhy.pages.dev/storage.md): ⭐ Blender
